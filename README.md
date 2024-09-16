@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulnawfal" alt="abdulnawfal" /></a> </p>
 
-- 🔭 I’m currently working on **Vendor Management Platform**
-
 - 🌱 I’m currently learning **JavaScript React Next Js**
 
 - 🤝 I’m looking for help with **Portfolio Design & Product Design**
